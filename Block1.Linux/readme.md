@@ -9,6 +9,10 @@
 Пример конечного вывода после команды “ls” :
 Desktop Documents Downloads  HumanFriends.txt  Music  PackAnimals.txt  Pets.txt  Pictures  Videos
 
+### Решение
+
+![Скриншот результата и команд задания 1](./scr/task1.1.png)
+
 2. Работа с директориями в Linux
    - Создать новую директорию и переместить туда файл "Human Friends".
 
